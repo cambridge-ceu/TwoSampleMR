@@ -1,0 +1,14 @@
+pandoc: '3.2'
+pkgdown: 2.1.1.9000
+pkgdown_sha: 18cca452d736fea33d47b19b4ef4973db9104a75
+articles:
+  exposure: exposure.html
+  gwas2020: gwas2020.html
+  harmonise: harmonise.html
+  introduction: introduction.html
+  outcome: outcome.html
+  perform_mr: perform_mr.html
+last_built: 2025-02-24T18:36Z
+urls:
+  reference: https://mrcieu.github.io/TwoSampleMR/reference
+  article: https://mrcieu.github.io/TwoSampleMR/articles
